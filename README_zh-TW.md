@@ -11,9 +11,9 @@
 
 ## 如何參加？
 1. 複製（fork）[這個儲存庫（reporestory）](https://github.com/hms5232/hacktoberfest2021-markdown-playground)
-2. 找到自己 ID/username 開頭字母的資料夾（如果還沒有請建立），在裡面建立以自己 ID/username 為檔名的 md 檔（例如：`hms5232.md`）
+2. 找到自己 ID/username 開頭字母的資料夾（如果還沒有請建立），在裡面建立以自己 ID/username 為檔名的 md 檔（例如：[`hms5232.md`](H/hms5232.md)）
 3. 在這個檔案裡盡情發揮創意，撰寫你的 Markdown 吧！
-4. 完成後請 commit、發送 PR 回來，沒問題的話我就會 merge PR。
+4. 完成後請 commit、發送 PR 回來，沒問題的話我就會 merge PR。（[範例點我](https://github.com/hms5232/hacktoberfest2021-markdown-playground/pull/3)）
 5. 恭喜！你完成一個對其他專案的貢獻了！歡迎加入開源的世界。
 
 ## 許可證
