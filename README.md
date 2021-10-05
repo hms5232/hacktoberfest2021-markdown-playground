@@ -1,5 +1,5 @@
 # hacktoberfest2021-markdown-playground
-Markdown playground for everyone. Enjoy [hacktoberfest2021](https://hacktoberfest.digitalocean.com/) 2021!
+Markdown playground for everyone. Enjoy [hacktoberfest](https://hacktoberfest.digitalocean.com/) 2021!
 
 [正體中文](README_zh-TW.md) | **English**
 
